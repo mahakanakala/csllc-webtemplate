@@ -1,6 +1,6 @@
 # Tech Tools Info Session Website Template (Computer Science LLC)
 
-Hey guys, welcome to the Tech Tools Info Session (May 23)! We will make our own portfolio website as part of the Computer Science LLC. This is for beginners who have never made a website. This is a simple repository where you can fork the template and make your changes. Use this as a stepping stone to make your own to display your own projects, achievements, blog, and photos.
+Hey guys, welcome to the Tech Tools Info Session (Feb 17)! We will make our own portfolio website as part of the Computer Science LLC. This is for beginners who have never made a website. This is a simple repository where you can fork the template and make your changes. Use this as a stepping stone to make your own to display your own projects, achievements, blog, and photos.
 
 ## Learn about Git
 
